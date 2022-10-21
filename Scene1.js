@@ -5,6 +5,7 @@ class Scene1 extends Phaser.Scene{
         super("bootGame");
     }
 
+    
     preload(){
         this.load.image("background", "assets/images/background.png");
         this.load.spritesheet("ship","assets/spritesheets/ship.png",{

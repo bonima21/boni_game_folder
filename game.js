@@ -5,7 +5,6 @@ var gameSettings = {
     maxPowerups:2,
     powerUpVel:50,
 }
-
     var config = {
         width: 256,
         height: 272,
